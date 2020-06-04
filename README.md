@@ -1,4 +1,4 @@
-# my_projects
+# Решенные учебные задачи
 
 * Employee_resignation - предсказание оттока сотрудников
 * simpsons_classifier - классификация изображений
